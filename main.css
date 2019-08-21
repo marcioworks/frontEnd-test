@@ -6,11 +6,19 @@
 
 
 h1 {
+    text-align: center;
     font-family: 'Cookie', cursive;
     font-size: 71px;
+    font-weight: normal;
     color: rgb(255, 255, 255);
 }
 
+div#maintext{
+    
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
 body{
     background-image: url('assets/04-BG.png');
     background-repeat: no-repeat;
@@ -26,4 +34,10 @@ div#topo{
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+
+
+div#formulario{
+
 }
