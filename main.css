@@ -8,5 +8,22 @@
 h1 {
     font-family: 'Cookie', cursive;
     font-size: 71px;
-    color: purple;
+    color: rgb(255, 255, 255);
+}
+
+body{
+    background-image: url('assets/04-BG.png');
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+}
+div#topo{  
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(157, 218, 218);
+    
+}
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
