@@ -27,7 +27,7 @@ body{
 div#topo{  
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: rgb(157, 218, 218);
+    background-color: rgb(148, 190, 174);
     
 }
 #logo {
@@ -47,7 +47,7 @@ fieldset{
 }
 
 input#name,#email{
-    font-family: 'Open-Sans';
+    font-family: 'Open Sans';
     font-size: 18px;
     font-style: normal;
     padding: 8px;
@@ -57,7 +57,7 @@ input#name,#email{
     border-radius: 5px;
 }
 textarea{
-    font-family: 'Open-Sans';
+    font-family: 'Open Sans';
     font-size: 18px;
     padding: 8px;
     margin-bottom: 20px;
@@ -66,12 +66,12 @@ textarea{
     border-radius: 5px;
 }
 input#send{
-    font-family: 'Open-Sans';
+    font-family: 'Open Sans';
     font-size: 22px;
     font-weight: bold;
     text-align: center;
     color:white;
-    background-color: rgb(107, 177, 177);
+    background-color: rgb(121, 175, 157);
     width: 370px;
     height: 40px;
     border-radius: 5px; 
